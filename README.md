@@ -11,9 +11,9 @@
 x=5,25 
 результат: 0,25 
 ### Алгоритм решения
-public double fraction(double x) {
-        return x % 1; // отбрасываем дробную часть
-    }
+        public double fraction(double x) {
+                return x % 1; // отбрасываем дробную часть
+            }
 
 ## Задача 2
 ### Сумма знаков
